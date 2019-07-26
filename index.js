@@ -19,7 +19,13 @@ const sayHiToGrandma(string) = sayHiToGrandma.shout => {
   return "YES INDEED!"
 } else if(string !== sayHiToGrandma.shout) {
   return "I can't hear you!" 
-} else (string !== sayHiToGrandma.shout) {
+} else if(string = "I love you, Grandma.") {
+  return "I love you, too."
+} else {
+  return ""
+}
+
+(string !== sayHiToGrandma.shout) {
   
   
   
