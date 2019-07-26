@@ -25,12 +25,3 @@ const sayHiToGrandma(string) = sayHiToGrandma.shout => {
   console.log(sayHiToGrandma.shout);
 }
 }
-(string !== sayHiToGrandma.shout) {
-  
-  
-  
-
-}
-}
-
-
