@@ -24,4 +24,3 @@ const sayHiToGrandma(string) = sayHiToGrandma.shout => {
 } else {
   console.log(sayHiToGrandma.shout);
 }
-}
