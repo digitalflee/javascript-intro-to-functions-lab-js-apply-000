@@ -22,21 +22,14 @@ const sayHiToGrandma(string) = sayHiToGrandma.shout => {
 } else if(string = "I love you, Grandma.") {
   return "I love you, too."
 } else {
-  return ""
+  console.log(sayHiToGrandma.shout);
 }
-
+}
 (string !== sayHiToGrandma.shout) {
   
   
   
-  if(shout(string)) { 
-  return "YES INDEED!"
-} else if(whisper(string)) {
-  return "I can't hear you!" 
-  } else if(string === "I love you, Grandma.") {
-    return "I love you, too."
-  } else {
-    console.log("I can't hear you!"); 
+
 }
 }
 
